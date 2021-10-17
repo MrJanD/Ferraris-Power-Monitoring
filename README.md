@@ -13,4 +13,5 @@ USAGE:
 
 !!!!!!!!!!ATTENTION!!!!!!!!!!
 This code is designed to quickly develope a running and stable solution. However, this comes with the cost of less readability and almost all principles of clean, straight and reusable code are violated as f***. 
+
 WARNING: This product can expose you to abhorrent code, which is known to the State of California to cause eye cancer and tremendous headache. For more information, go to https://www.reddit.com/r/ProgrammerHumor/.
