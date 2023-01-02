@@ -61,7 +61,7 @@ uint8_t turnsPerkWh = 120;
 // published if set to true.
 bool publishDebug = false;
 
-// Latter variables are not that relevant.
+// Latter variables handle the sliding window, ring buffer and so. Can be adjusted for fine tuning the solution, but have been proven to be best suitable for analog reader
 unsigned long irSampleAt = 0;
 unsigned long lastFerrisTurn = millis();
 bool ferrisRed = false;
